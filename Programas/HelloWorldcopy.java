@@ -1,9 +1,10 @@
+
 /**
  * Programa que imprime na tela Olá Mnundo!
  * @author Od0g
  */
 
-public class HelloWorld {
+public class HelloWorldcopy{
     /*Método principal da classe*/
     public static void main (String[] args){
         System.out.println("Olá Mundo!");
