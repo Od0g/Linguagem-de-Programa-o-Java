@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Programa02",
+      "request": "launch",
+      "mainClass": "Exerc02.Programa02",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Programa01",
+      "request": "launch",
+      "mainClass": "Exerc01.Programa01",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Bancoj",
+      "request": "launch",
+      "mainClass": "Bancoj",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Bancoj",
+      "request": "launch",
+      "mainClass": "Fundamentos.POO.Exerc.Bancoj",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Launch Java Program",
       "request": "launch",
       "mainClass": "${file}"
