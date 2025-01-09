@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Fundamentos.Arrays.Exerc02.Main",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Programa03",
+      "request": "launch",
+      "mainClass": "Exerc03.Programa03",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Programa02",
       "request": "launch",
       "mainClass": "Exerc02.Programa02",
