@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.TesteDeMesa;
 
 import java.util.Scanner;
 

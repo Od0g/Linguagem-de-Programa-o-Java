@@ -1,3 +1,4 @@
+package Ex01;
 class Empresa {
     String nome;
     String cnpj;

@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MeuFrame",
+      "request": "launch",
+      "mainClass": "IUG.ProjetoJava.MeuFrame",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Ex01.Main",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Fundamentos.Arrays.Exerc02.Main",

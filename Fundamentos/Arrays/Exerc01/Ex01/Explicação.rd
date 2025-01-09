@@ -8,3 +8,5 @@ Explicação das Funcionalidades
     4 contemMétodo : Verifique se um funcionário está presente na empresa comparando referências.
     
     5 Evitarnull : Durante os loops, verificamos se os elementos são diferentes de nullantes de acessá-los.
+
+   
