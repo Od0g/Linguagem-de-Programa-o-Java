@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calc",
+      "request": "launch",
+      "mainClass": "Calc",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Imprimindo04",
+      "request": "launch",
+      "mainClass": "MultiplosDeTresECinco.Imprimindo04",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "MeuFrame",
       "request": "launch",
       "mainClass": "IUG.ProjetoJava.MeuFrame",

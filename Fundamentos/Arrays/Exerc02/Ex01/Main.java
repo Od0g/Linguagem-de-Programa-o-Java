@@ -10,7 +10,7 @@ class Porta {
     }
 
     boolean estaAberta() {
-        return this.aberta;
+        return this.fechar();;
     }
 }
 

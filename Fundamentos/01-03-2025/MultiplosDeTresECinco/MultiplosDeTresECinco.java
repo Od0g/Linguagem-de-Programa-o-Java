@@ -1,6 +1,6 @@
 package MultiplosDeTresECinco;
 
-public class Imprimindo04 {
+public class MultiplosDeTresECinco {
     public static void main(String[] args) {
         // Laço para percorrer de 1 a 100
         for (int i = 1; i<= 100; i++) {
