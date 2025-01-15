@@ -7,6 +7,7 @@ public class Fatorial {
             }
             System.out.println("Fatorial de " + n + "é:" + fatorial);
         }
+        
     }
     
 }

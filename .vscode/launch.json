@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fatorial",
+      "request": "launch",
+      "mainClass": "Fatorial",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Calc",
       "request": "launch",
       "mainClass": "Calc",
