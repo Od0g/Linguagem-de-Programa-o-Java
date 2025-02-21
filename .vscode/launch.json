@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PesquisaBinaria2",
+      "request": "launch",
+      "mainClass": "algorithm.PBinaria.PesquisaBinaria2",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "PesquisaBinaria",
       "request": "launch",
       "mainClass": "algorithm.PBinaria.PesquisaBinaria",
