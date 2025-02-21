@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PesquisaBinaria",
+      "request": "launch",
+      "mainClass": "algorithm.PBinaria.PesquisaBinaria",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Distance",
+      "request": "launch",
+      "mainClass": "Distance",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "PesquisaBinariaInterativa",
+      "request": "launch",
+      "mainClass": "algorithm.PBinaria.PesquisaBinariaInterativa",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Fatorial",
       "request": "launch",
       "mainClass": "Fatorial",
