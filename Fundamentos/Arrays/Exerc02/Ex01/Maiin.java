@@ -10,7 +10,7 @@ class Porta {
     }
 
     boolean estaAberta() {
-        return this.fechar();;
+        return this.aberta;
     }
 }
 
@@ -53,7 +53,7 @@ class Casa {
     }
 }
 
-public class Main {
+public class Maiin {
     public static void main(String[] args) {
         Casa minhaCasa = new Casa(3);
 

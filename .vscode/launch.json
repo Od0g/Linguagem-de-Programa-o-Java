@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Maiin",
+      "request": "launch",
+      "mainClass": "Maiin",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "DadosPrimitivos",
+      "request": "launch",
+      "mainClass": "DadosPrimitivos",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "dadosprimo",
+      "request": "launch",
+      "mainClass": "dadosprimo",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "DadosPrimitivoo",
+      "request": "launch",
+      "mainClass": "DadosPrimitivoo",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Primitivoo",
+      "request": "launch",
+      "mainClass": "Primitivoo",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Primitivo",
+      "request": "launch",
+      "mainClass": "Primitivo",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Calc",
+      "request": "launch",
+      "mainClass": "Calculadora.Calc",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "PesquisaBinaria2",
       "request": "launch",
       "mainClass": "algorithm.PBinaria.PesquisaBinaria2",
