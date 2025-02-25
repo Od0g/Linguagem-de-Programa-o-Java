@@ -1,3 +1,9 @@
 {
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "Fundamentos/Arrays/Exerc03/03",
+    "Fundamentos/Arrays/Exerc03/02",
+    "Fundamentos/Arrays/Exerc03/01",
+    "Fundamentos/Arrays/Exerc03/04"
+  ]
 }

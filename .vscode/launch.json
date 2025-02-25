@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array4s",
+      "request": "launch",
+      "mainClass": "Array4s",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Array3s",
+      "request": "launch",
+      "mainClass": "Array3s",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Array2s",
+      "request": "launch",
+      "mainClass": "Array2s",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Fundamentos.Arrays.Exerc03.Arrays",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Maiin",
       "request": "launch",
       "mainClass": "Maiin",
