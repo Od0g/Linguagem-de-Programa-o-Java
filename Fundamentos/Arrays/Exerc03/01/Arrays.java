@@ -16,4 +16,9 @@ public class Arrays {
             System.out.println(i);
         }
     }
+
+    public static void fill(int[] distancias, int maxValue) {
+        // Implementação do método fill
+        throw new UnsupportedOperationException("Unimplemented method 'fill'");
+    }
 }

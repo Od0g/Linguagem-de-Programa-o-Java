@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "EntradaeSaida",
+      "request": "launch",
+      "mainClass": "EntradaeSaida",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "ArrayDeAtributo",
+      "request": "launch",
+      "mainClass": "ArrayDeAtributo",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "ArrayDeAtributos",
+      "request": "launch",
+      "mainClass": "ArrayDeAtributos",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Fundamentos",
+      "request": "launch",
+      "mainClass": "Fundamentos",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "GrafoComHash",
+      "request": "launch",
+      "mainClass": "GrafoComHash",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "BellmanFord",
+      "request": "launch",
+      "mainClass": "BellmanFord",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "DijkstraComHash",
+      "request": "launch",
+      "mainClass": "DijkstraComHash",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "Array4s",
       "request": "launch",
       "mainClass": "Array4s",
