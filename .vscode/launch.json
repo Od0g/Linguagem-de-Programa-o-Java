@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CasaDolsidro",
+      "request": "launch",
+      "mainClass": "CasaDolsidro",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "ClasseQueUsaTV",
+      "request": "launch",
+      "mainClass": "ClasseQueUsaTV",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "EntradaeSaida",
       "request": "launch",
       "mainClass": "EntradaeSaida",
