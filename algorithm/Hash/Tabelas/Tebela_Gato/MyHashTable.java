@@ -4,8 +4,9 @@ public class MyHashTable<K, V> {
     private static final int DEFAULT_CAPACITY = 16;
     private Entry<K, V>[] table;
 
+    @SuppressWarnings("unchecked")
     public MyHashTable() {
-        table = new Entry[DEFAULT_CAPACITY];
+        table = (Entry<K, V>[]) new Entry[DEFAULT_CAPACITY];
     }
 
     // Método para inserir ou atualizar um valor
