@@ -3,6 +3,49 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WordCounter",
+      "request": "launch",
+      "mainClass": "Tabelas.Tebela_Gato.WordCounter",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "hash",
+      "request": "launch",
+      "mainClass": "hash",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "TabelaHashMelhorada",
+      "request": "launch",
+      "mainClass": "Tabelas.TabelaHashMelhorada",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "TabelaHash",
+      "request": "launch",
+      "mainClass": "TabelaHash",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Converso",
+      "request": "launch",
+      "mainClass": "Converso",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Conversor",
+      "request": "launch",
+      "mainClass": "Conversor",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6",
+      "cwd": "${workspaceFolder}/dataestructure/2025-03-07/02"
+    },
+    {
+      "type": "java",
       "name": "CasaDolsidro",
       "request": "launch",
       "mainClass": "CasaDolsidro",

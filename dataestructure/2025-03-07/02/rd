@@ -1,0 +1,8 @@
+# Navegue até o diretório
+cd /workspaces/Linguagem-de-Programa-o-Java/dataestructure/2025-03-07/02
+
+# Compile
+javac Conversor.java Pilha.java
+
+# Execute
+java -cp . Conversor

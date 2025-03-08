@@ -11,9 +11,10 @@ public class BellmanFord {
         }
     }
 
-    public static int[] BellmanFord(List<Aresta> arestas, int numVertices, int origem) {
+    public static int[] calcularBellmanFord(List<Aresta> arestas, int numVertices, int origem) {
         int[] distancias = new int[numVertices];
-        Arrays.fill(distancias, Integer.MAX_VALUE);
+        // Corrção
+        java.util.Arrays.fill(distancias, Integer.MAX_VALUE);
         distancias[origem] = 0;
 
         // Relaxamento das arestas (V-1 vezes)
@@ -45,7 +46,7 @@ public class BellmanFord {
         arestas.add(new Aresta(1, 2, -3)); // Aresta de 1 → 2 com peso -3
         arestas.add(new Aresta(2, 3, 2)); // Aresta de 2 → 3 com peso 2
 
-        int[] distancias = BellmanFord(arestas, 4, 0);
+        int[] distancias = calcularBellmanFord(arestas, 4, 0);
 
         if (distancias != null) {
             System.out.println("Distâncias a partir do vértice 0:");
