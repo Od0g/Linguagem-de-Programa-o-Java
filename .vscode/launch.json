@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Delete",
+      "request": "launch",
+      "mainClass": "Delete",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "GetFileInfo",
+      "request": "launch",
+      "mainClass": "GetFileInfo",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "Leia",
+      "request": "launch",
+      "mainClass": "Leia",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
+      "name": "CreateFile",
+      "request": "launch",
+      "mainClass": "CreateFile",
+      "projectName": "Linguagem-de-Programa-o-Java_6030daa6"
+    },
+    {
+      "type": "java",
       "name": "WordCounter",
       "request": "launch",
       "mainClass": "Tabelas.Tebela_Gato.WordCounter",

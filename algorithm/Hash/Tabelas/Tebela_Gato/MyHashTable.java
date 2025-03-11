@@ -18,8 +18,9 @@ public class MyHashTable<K, V> {
     // Método para recuperar um valor
     public V get(K key) {
         int hash = getHash(key);
-        Entry<K, V> entry = table[hash];
-        return (entry != null && entry.key.equals(key)) ? entry.value : null;
+        Entry<K, V> entry = table[hash];// Implementação básica (sem tratamento de colisões)
+        return (entry != null && entry.key.equals(key)) ? entry.value : null;// Implementação básica (sem tratamento de
+                                                                             // colisões)
     }
 
     // Função de hash simples

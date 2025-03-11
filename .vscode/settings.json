@@ -1,6 +1,7 @@
 {
   "java.debug.settings.onBuildFailureProceed": true,
   "java.project.sourcePaths": [
+    "dataestructure/2025-03-07",
     "algorithm/QuickSort",
     "algorithm/Hash",
     "algorithm/Grafos",
@@ -11,6 +12,6 @@
     "Fundamentos/Arrays/Exerc03/02",
     "Fundamentos/Arrays/Exerc03/01",
     "Fundamentos/02-27-2025",
-    "dataestructure/2025-03-07"
+    "ManipulacaoDeArquivos"
   ]
 }
