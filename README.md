@@ -49,4 +49,4 @@ Este projeto está licenciado sob a **FATEC São Carlos - Big Data para Indústr
 
 ---
 
-💡 _Aprenda, pratique e compartilhe seus conhecimentos em Java!_
+
